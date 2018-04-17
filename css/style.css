@@ -1,0 +1,106 @@
+body{
+	background-color:  #5c5cd6;
+}
+
+header img{
+	padding: 0px 5px;
+	float: center;
+	width: 83.5em;
+	height: 31em;
+}
+
+h1{
+	font-size: 3em;
+	font-family: "Harrington";
+	text-align: center;
+	color: #3333cc;
+	display: block;
+	background-color: #00004d;
+	padding: 10px;
+}
+
+nav{
+	text-align: center;
+	text-decoration: none;
+	list-style-type: none;
+	background-color: #3333cc;
+	word-spacing: normal;
+	padding: 5px;
+}
+
+li a{
+	text-decoration: none;
+	color: #00004d;
+	font-size: 2.5em;
+	font-family: "Juice ITC";
+}
+
+li a:hover{
+	background-color: #ff8080;
+	color: #b30000;
+}
+
+#Notas{
+	width: 23%;
+	height: 45%;
+	position: absolute;
+	padding-left: 10px;
+	padding-top: 15px;
+}
+
+section{
+ font-family: "Baskerville Old Face";
+ color: #00004d;
+}
+
+h2{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	float: left;
+	padding-left: 340px;
+    font-size: 2.5em;
+}
+
+.parraA{
+	width: 75%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	position: relative;
+	float: right;
+	padding-left: 250px;
+	padding-bottom: 10px;
+	font-size: 1.5em;
+}
+
+.parraB{
+	padding-left: 15px;
+	padding-top: 45px;
+	padding-bottom: 5px;
+	position: relative;
+	float: left;
+	font-size: 1.5em;
+	display: block;
+	width: 60%;
+}
+
+#musica{
+	width: 35%;
+	padding: 20px;
+	position: relative;
+	float: right;
+
+}
+
+
+
+footer{
+	font-family: "Harrington";
+	font-size: 1.5em;
+	color: #3333cc;
+	background-color:  #00004d;
+	padding: 10px;
+	top: 580px;
+	position: relative;
+}
+
